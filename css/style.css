@@ -1,0 +1,36 @@
+.wrapper{
+	width: 60%;
+	margin: auto;
+	border: 5px solid #ddd;
+}
+label{
+	font-size: 25px;
+}
+.first_Name, .last_Name, .email, .password{
+width: 90%;
+height: 25%;
+padding: 10px;
+font-size:15px ;
+}
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
+.button{
+	width: 70px;
+	font-size: 15px;
+	color: red;
+}
+
+table{
+	width: 62%;
+	border: 3px solid gray;
+	margin: auto;
+}
+
+th, td{
+	font-size: 20px;
+	text-align: left;
+	border: 3px solid black;
+	margin: auto;
+}
